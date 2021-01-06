@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fe7fd6b105a1d6e4b86317edc20360f0
+  m_SerializeEntries:
+  - m_GUID: 1095f7e77944f1945bd9997786dbd625
+    m_Address: Assets/Prefabs/Pieces/BlackPawn.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 112ae088fa3c33340b3ff05351be19ac
+    m_Address: Assets/Prefabs/Pieces/BlackKing.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 12158045b1a0ac54abdf55bcd73102c0
+    m_Address: Assets/Prefabs/Pieces/BlackTile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2272057a66a58b74d85b2a3fcf5579ec
+    m_Address: Assets/Prefabs/Pieces/WhiteKing.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 28070d180f0749149a7b8f8b30ceeef5
+    m_Address: Assets/Prefabs/Pieces/WhiteBishop.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2ee643c9e58e17c4ea1bd9c539080997
+    m_Address: Assets/Prefabs/Pieces/BlackRook.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3408617b01dfa9d41ada692c6cac4724
+    m_Address: Assets/Prefabs/Pieces/WhiteQueen.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 853e8ccc63e5f7a4f8eaa04639310ac1
+    m_Address: Assets/Prefabs/Pieces/BlackKnight.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8606f766fbe2e7249a24587c56bd9ae4
+    m_Address: Assets/Prefabs/Pieces/BlackBishop.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 93bdc8df9cc8ccd47bb26fcafc9d72c1
+    m_Address: Assets/Prefabs/Pieces/WhiteKnight.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: aff982249b5ad2647b7876ba15194989
+    m_Address: Assets/Prefabs/Pieces/WhiteTile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b72c6074b2e218d4a8690c044b2e40b3
+    m_Address: Assets/Materials/Textures/chessPieces.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - tiles
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b83d724d87dffa04898cb9d004988028
+    m_Address: Assets/Prefabs/Pieces/WhiteRook.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: da9205303cbeb654cbf1ba7c002b127f
+    m_Address: Assets/Prefabs/Pieces/BlackQueen.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f76198c896d86824fad6c3ecf2bddfd6
+    m_Address: Assets/Prefabs/Pieces/WhitePawn.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2cd82ce1922628f44becfee9f921a61d
+    m_Address: Assets/Materials/Textures/black.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - tiles
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 44b8fa9d65c3d354ebcdcdf33fca60e9
+    m_Address: Assets/Materials/Textures/white.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - tiles
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c9267d6e3f4177b47abcbcb5f62d8deb
+    m_Address: Assets/Scenes/GameSceneSettings.lighting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3d6476b8795159643a8e4bd4a550af2b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9c301fd850a2eba4190d4566c775931a, type: 2}
+    - {fileID: 11400000, guid: e6f82eb44c354824289628e8e2b4a4b0, type: 2}

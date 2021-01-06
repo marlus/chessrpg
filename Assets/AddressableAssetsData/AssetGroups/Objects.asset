@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Objects
+  m_EditorClassIdentifier: 
+  m_GroupName: Objects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 702241adcd6a56843a401018cb3e35b2
+  m_SerializeEntries:
+  - m_GUID: 3f777fcf6831b99419ba1079b20a7962
+    m_Address: Assets/Objects/Moves/DiagonalMove.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - objects
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9b7923b3f3e8c8449bf88b4bf095bbc7
+    m_Address: Assets/Objects/Moves/StraightMove.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - objects
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a2b5891ef4e0b2e45bb74f25306747a2
+    m_Address: Assets/Objects/Board/Classic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - board
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3d6476b8795159643a8e4bd4a550af2b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5d70be1349c3cd443a46c641ae585b68, type: 2}
+    - {fileID: 11400000, guid: 961795a937c26a943886231b7a492006, type: 2}

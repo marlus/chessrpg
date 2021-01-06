@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5cfd4058ac807d4fa1c8b8b6b60d6eb, type: 3}
+  m_Name: Classic
+  m_EditorClassIdentifier: 
+  _board:
+    MatrixSize: 8
+    rows:
+    - row: 0000000000000000000000000000000000000000000000000000000000000000
+    - row: 0000000000000000000000000000000000000000000000000000000000000000
+    - row: 0000000000000000000000000000000000000000000000000000000000000000
+    - row: 0000000000000000000000000000000000000000000000000000000000000000
+    - row: 0000000000000000000000000000000000000000000000000000000000000000
+    - row: 0000000000000000000000000000000000000000000000000000000000000000
+    - row: 0000000000000000000000000000000000000000000000000000000000000000
+    - row: 0000000000000000000000000000000000000000000000000000000000000000
+  _tiles:
+  - m_AssetGUID: aff982249b5ad2647b7876ba15194989
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 12158045b1a0ac54abdf55bcd73102c0
+    m_SubObjectName: 
+    m_SubObjectType: 
+  _pieces:
+  - m_AssetGUID: f76198c896d86824fad6c3ecf2bddfd6
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: b83d724d87dffa04898cb9d004988028
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 93bdc8df9cc8ccd47bb26fcafc9d72c1
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 28070d180f0749149a7b8f8b30ceeef5
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 3408617b01dfa9d41ada692c6cac4724
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 2272057a66a58b74d85b2a3fcf5579ec
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 1095f7e77944f1945bd9997786dbd625
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 2ee643c9e58e17c4ea1bd9c539080997
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 853e8ccc63e5f7a4f8eaa04639310ac1
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 8606f766fbe2e7249a24587c56bd9ae4
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: da9205303cbeb654cbf1ba7c002b127f
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 112ae088fa3c33340b3ff05351be19ac
+    m_SubObjectName: 
+    m_SubObjectType: 
